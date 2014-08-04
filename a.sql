@@ -1,7 +1,4 @@
-select a=2
-<<<<<<< HEAD
-asa
+sds
+asd
+
 s
-=======
-and some
->>>>>>> origin/master
